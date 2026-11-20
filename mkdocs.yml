@@ -1,0 +1,145 @@
+site_name: BYU CE 331
+site_url: https://ce331.readthedocs.io/en/latest/
+site_description: Course materials for CE 331 Hydrology at BYU
+site_author: Jim Nelson (instructor) and TAs of CE 331 at BYU
+repo_url: https://github.com/geosjim/ce331
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.0/es5/tex-mml-chtml.js
+  - js/mathjax-config.js
+markdown_extensions:
+    - attr_list
+    - sane_lists
+    - md_in_html
+    - admonition
+    - tables
+    - pymdownx.arithmatex:
+        generic: true
+theme: readthedocs
+extra_css:
+  - css/custom.css
+nav:
+  - Home: index.md
+  - Class Resources:
+    - Syllabus: resources/syllabus.md
+    - Course AI Use Policy: resources/ai_policy.md
+    - Pre-Class Preparation: resources/preclass_instructions.md
+    - Textbook and References: resources/textbook.md
+    - Exam Equation Sheets: resources/equation_sheets.md
+  - Course Introduction: unit1/01_introduction/introduction_read.md
+  - Unit 1 - Hydrologic Cycle and Processes:
+    - "Hydrologic Cycle":
+        - Pre-Class: unit1/02_hydrologic_cycle/hydrologic_cycle_read.md
+        - In-Class: unit1/02_hydrologic_cycle/hydrologic_cycle_class.md
+        - Homework: unit1/02_hydrologic_cycle/hydrologic_cycle_hw.md
+    - "Water Balances":
+        - Pre-Class: unit1/03_water_balances/water_balances_read.md
+        - In-Class: unit1/03_water_balances/water_balances_class.md
+        - Homework: unit1/03_water_balances/water_balances_hw.md
+    - "Weather":
+        - Pre-Class: unit1/04_weather/weather_read.md
+        - In-Class: unit1/04_weather/weather_class.md
+        - Homework: unit1/04_weather/weather_hw.md
+    - "Precipitation":
+        - Pre-Class: unit1/05_precipitation/precipitation_read.md
+        - In-Class: unit1/05_precipitation/precipitation_class.md
+        - Homework: unit1/05_precipitation/precipitation_hw.md
+    - "Snow":
+        - Pre-Class: unit1/06_snow/snow_read.md
+        - In-Class: unit1/06_snow/snow_class.md
+        - Homework: unit1/06_snow/snow_hw.md
+    - "Evaporation":
+        - Pre-Class: unit1/07_evaporation/evaporation_read.md
+        - In-Class: unit1/07_evaporation/evaporation_class.md
+        - Homework: unit1/07_evaporation/evaporation_hw.md
+    - "Evapotranspiration":
+        - Pre-Class: unit1/08_evapotranspiration/evapotranspiration_read.md
+        - In-Class: unit1/08_evapotranspiration/evapotranspiration_class.md
+        - Homework: unit1/08_evapotranspiration/evapotranspiration_hw.md
+  - Unit 2 - Streamflow and Statistical Hydrology:
+    - "Runoff":
+        - Pre-Class: unit2/09_runoff/runoff_read.md
+        - In-Class: unit2/09_runoff/runoff_class.md
+        - Homework: unit2/09_runoff/runoff_hw.md
+    - "Watersheds and Measurements":
+        - Pre-Class: unit2/10_watersheds_measurements/watersheds_measurements_read.md
+        - In-Class: unit2/10_watersheds_measurements/watersheds_measurements_class.md
+        - Homework: unit2/10_watersheds_measurements/watersheds_measurements_hw.md
+    - "Data Collection":
+        - Pre-Class: unit2/11_data_collection/data_collection_read.md
+        - In-Class: unit2/11_data_collection/data_collection_class.md
+        - Homework: unit2/11_data_collection/data_collection_hw.md
+    - "Distributions":
+        - Pre-Class: unit2/12_distributions/distributions_read.md
+        - In-Class: unit2/12_distributions/distributions_class.md
+        - Homework: unit2/12_distributions/distributions_hw.md
+    - "Flow Frequency":
+        - Pre-Class: unit2/13_flow_frequency/flow_frequency_read.md
+        - In-Class: unit2/13_flow_frequency/flow_frequency_class.md
+        - Homework: unit2/13_flow_frequency/flow_frequency_hw.md
+    - "Regression":
+        - Pre-Class: unit2/14_regression/regression_read.md
+        - In-Class: unit2/14_regression/regression_class.md
+        - Homework: unit2/14_regression/regression_hw.md
+    - "Regression II":
+        - Pre-Class: unit2/14b_regression_ii/regression_ii_read.md
+        - In-Class: unit2/14b_regression_ii/regression_ii_class.md
+        - Homework: unit2/14b_regression_ii/regression_ii_hw.md
+  - Unit 3 - Rainfall-Runoff Analysis:
+    - "Infiltration":
+        - Pre-Class: unit3/15_infiltration/infiltration_read.md
+        - In-Class: unit3/15_infiltration/infiltration_class.md
+        - Homework: unit3/15_infiltration/infiltration_hw.md
+    - "SCS Curve Number":
+        - Pre-Class: unit3/16_scs_curve_number/scs_curve_number_read.md
+        - In-Class: unit3/16_scs_curve_number/scs_curve_number_class.md
+        - Homework: unit3/16_scs_curve_number/scs_curve_number_hw.md
+    - "Unit Hydrographs":
+        - Pre-Class: unit3/17_unit_hydrographs/unit_hydrographs_read.md
+        - In-Class: unit3/17_unit_hydrographs/unit_hydrographs_class.md
+        - Homework: unit3/17_unit_hydrographs/unit_hydrographs_hw.md
+    - "Synthetic Unit Hydrographs":
+        - Pre-Class: unit3/18_synthetic_unit_hydrographs/synthetic_unit_hydrographs_read.md
+        - In-Class: unit3/18_synthetic_unit_hydrographs/synthetic_unit_hydrographs_class.md
+        - Homework: unit3/18_synthetic_unit_hydrographs/synthetic_unit_hydrographs_hw.md
+    - "Multi-basin Analysis":
+        - Pre-Class: unit3/19_multibasin_analysis/multibasin_analysis_read.md
+        - In-Class: unit3/19_multibasin_analysis/multibasin_analysis_class.md
+        - Homework: unit3/19_multibasin_analysis/multibasin_analysis_hw.md
+    - "Hydrologic Modeling and Review":
+        - Pre-Class: unit3/08a_review_model_demo/review_model_demo_read.md
+        - In-Class: unit3/08a_review_model_demo/review_model_demo_class.md
+  - Unit 4 - Routing and Urban Hydrology:
+    - "Hydrologic Routing":
+        - Pre-Class: unit4/20_hydrologic_routing/hydrologic_routing_read.md
+        - In-Class: unit4/20_hydrologic_routing/hydrologic_routing_class.md
+        - Homework: unit4/20_hydrologic_routing/hydrologic_routing_hw.md
+    - "Reservoir Routing":
+        - Pre-Class: unit4/21_reservoir_routing/reservoir_routing_read.md
+        - In-Class: unit4/21_reservoir_routing/reservoir_routing_class.md
+        - Homework: unit4/21_reservoir_routing/reservoir_routing_hw.md
+    - "Urban Hydrology":
+        - Pre-Class: unit4/22_urban_hydrology/urban_hydrology_read.md
+        - In-Class: unit4/22_urban_hydrology/urban_hydrology_class.md
+        - Homework: unit4/22_urban_hydrology/urban_hydrology_hw.md
+    - "Design Storms":
+        - Pre-Class: unit4/23_design_storms/design_storms_read.md
+        - In-Class: unit4/23_design_storms/design_storms_class.md
+        - Homework: unit4/23_design_storms/design_storms_hw.md
+  - Unit 5 - Groundwater:
+    - "Darcy's Law":
+        - Pre-Class: unit5/24_darcys_law/darcys_law_read.md
+        - In-Class: unit5/24_darcys_law/darcys_law_class.md
+        - Homework: unit5/24_darcys_law/darcys_law_hw.md
+    - "Wells":
+        - Pre-Class: unit5/25_wells/wells_read.md
+        - In-Class: unit5/25_wells/wells_class.md
+        - Homework: unit5/25_wells/wells_hw.md
+  - Term Project:
+    - Overview: termproject/tp_overview.md
+    - Part 1 - Demographic Data: termproject/part1/part1.md
+    - Part 2 - Rivers and Watersheds: termproject/part2/part2.md
+    - Part 3 - Reservoirs and Lakes: termproject/part3/part3.md
+    - Part 4 - Climate Variables and Change: termproject/part4/part4.md
+    - Part 5 - Future Scenario Simulations: termproject/part5/part5.md
+    - Part 6 - Policy Actions: termproject/part6/part6.md
+    - Part 7 - Recommendations Memo: termproject/part7/part7.md
