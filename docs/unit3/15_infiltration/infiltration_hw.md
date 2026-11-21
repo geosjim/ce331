@@ -5,7 +5,6 @@ Solve the following problems from Bedient, Huber & Vieux, *Hydrology and Floodpl
 1. Problem 2.29
 2. Problem 2.31
 3. Problem 2.35 (use lower end values of porosity only)
-4. Problem 2.36
 
 Excel template: [Infiltration HW Template.xlsx](Infiltration%20HW%20Template.xlsx)
 

@@ -9,7 +9,8 @@ Solve the following problems from Bedient, Huber & Vieux, *Hydrology and Floodpl
     |---|---|---|---|---|---|---|---|---|---|
     | I (cms) | 0 | 100 | 200 | 400 | 300 | 200 | 100 | 50 | 0 |
 
-- **4.17** - The inflow to the reservoir is the river from Problem 4.16. The template's "Problem 4.17" sheet notes that storage is in 10⁶ ft³ and that Δt should be in seconds, not hours, and asks you to use the routed hydrograph with x = 0.1 from Problem 4.16 as the inflow (the 4.16 inflow data are on the "Problem 4.16" sheet).
+- **4.16** - The inflow hydrograph is on the template's "Problem 4.16" sheet.
+- **4.17** - The inflow to the reservoir is your routed hydrograph with x = 0.1 from Problem 4.16. The template's "Problem 4.17" sheet notes that storage is in 10⁶ ft³ and that Δt should be in seconds, not hours.
 
 Excel template: [Reservoir Routing HW Template.xlsx](Reservoir%20Routing%20HW%20Template.xlsx)
 
@@ -28,9 +29,9 @@ Upload your work to Learning Suite.
 
 Each problem is scored 0-3: 0 nothing submitted, 1 an intelligent attempt, 2 complete with some errors, 3 correct within a reasonable tolerance.
 
-| Criteria                                                        | Points |
-|-----------------------------------------------------------------|:------:|
-| Problem 4.12 (a)-(b): Recursive relation and linear-reservoir routing |   3    |
-| Problem 4.12 (c): Why storage-discharge relations are usually non-linear |   3    |
-| Problem 4.13: Storage-indication curve from S = KQ^1.5, and routing |   3    |
-| Problem 4.17: Storage-indication curve from tabulated pairs, and routing |   3    |
+| Criteria | Points |
+|---|:---:|
+| Problem 4.12: Linear-reservoir routing, and why storage-discharge relations are usually non-linear | 3 |
+| Problem 4.13: Storage-indication curve from S = KQ^1.5, and routing | 3 |
+| Problem 4.16: Muskingum routing of the river hydrograph | 3 |
+| Problem 4.17: Storage-indication curve from tabulated pairs, and routing the 4.16 outflow | 3 |
