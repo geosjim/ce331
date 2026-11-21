@@ -1,4 +1,4 @@
-# Homework 1 - Hydrologic Cycle
+# Homework - Hydrologic Cycle
 
 Solve the following problems from Bedient, Huber & Vieux, Chapter 1:
 

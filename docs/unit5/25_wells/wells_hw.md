@@ -1,4 +1,4 @@
-# Homework 24 - Wells
+# Homework - Wells
 
 Solve the following problems from Bedient, Huber & Vieux, Chapter 8:
 

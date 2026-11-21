@@ -1,4 +1,4 @@
-# Homework 13 - Regression II
+# Homework - Regression II
 
 **Spanish Fork River at Castilla, Utah (USGS 10150500)** - GLDAS land-surface model output vs. gauged discharge. GLDAS-2.1 monthly fields, area-weighted over the five 0.25-degree cells covering 94% of the 631 mi² basin.
 

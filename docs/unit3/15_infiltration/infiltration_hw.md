@@ -1,4 +1,4 @@
-# Homework 14 - Infiltration
+# Homework - Infiltration
 
 Solve the following problems from Bedient, Huber & Vieux, *Hydrology and Floodplain Analysis*, 6th ed., Chapter 2.
 

@@ -1,4 +1,4 @@
-# Homework 7 - Evapotranspiration
+# Homework - Evapotranspiration
 
 ## Objective
 

@@ -1,4 +1,4 @@
-# Homework 10 - Data Collection
+# Homework - Data Collection
 
 Gather some historical streamflow and precipitation data for gauges near Spanish Fork.
 

@@ -1,4 +1,4 @@
-# Homework 6 - Evaporation
+# Homework - Evaporation
 
 Solve the following problems from Bedient, Huber & Vieux, Chapter 2:
 

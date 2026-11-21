@@ -1,4 +1,4 @@
-# Homework 22 - Design Storms
+# Homework - Design Storms
 
 This homework has two parts: the Provo Urban Hydrology assignment below, and two textbook problems.
 

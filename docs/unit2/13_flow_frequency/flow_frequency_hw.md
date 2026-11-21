@@ -1,4 +1,4 @@
-# Homework 12 - Flow Frequency
+# Homework - Flow Frequency
 
 **Data:** USGS gauge 10150500, Spanish Fork River. Work in the Flow Frequency HW Template. The 91 annual peak discharges (1935-2025) are provided on the Problem 1 and Problem 2 sheets; the Problem 5 sheet holds the full daily mean record for the same gauge and period. This is the same data you used for the Distributions assignment. You do not need any other data files, but I hope you understand where they come from.
 

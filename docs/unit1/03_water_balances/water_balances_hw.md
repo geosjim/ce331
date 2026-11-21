@@ -1,4 +1,4 @@
-# Homework 2 - Water Balance
+# Homework - Water Balance
 
 Solve the following problems from Bedient, Huber & Vieux, Chapter 1:
 

@@ -1,4 +1,4 @@
-# Homework 9 - Watersheds and Measurements
+# Homework - Watersheds and Measurements
 
 Solve the following problems. Problems 1.25 and 1.28 are from Bedient, Huber & Vieux, *Hydrology and Floodplain Analysis*, 6th ed.
 

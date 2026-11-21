@@ -1,4 +1,4 @@
-# Homework 5 - Snow
+# Homework - Snow
 
 Solve the following problems showing all steps and units. Use results and equations from lecture and the Snowfall/Snowmelt chapter (Section 2.9). Make and state any reasonable assumptions.
 

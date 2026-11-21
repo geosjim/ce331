@@ -1,4 +1,4 @@
-# Homework 18 - Multi-basin Analysis
+# Homework - Multi-basin Analysis
 
 1. Solve Problem 4.14 from Bedient, Huber & Vieux, *Hydrology and Floodplain Analysis*, 6th ed.
 2. Explain why hydrologists divide a watershed into multiple subbasins rather than treating the entire watershed as a single lumped area?

@@ -1,4 +1,4 @@
-# Homework 23 - Darcy's Law
+# Homework - Darcy's Law
 
 Solve the following problems from Bedient, Huber & Vieux, Chapter 8:
 

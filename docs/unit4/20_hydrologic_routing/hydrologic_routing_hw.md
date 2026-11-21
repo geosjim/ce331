@@ -1,4 +1,4 @@
-# Homework 19 - Hydrologic Routing
+# Homework - Hydrologic Routing
 
 Solve the following problems from Bedient, Huber & Vieux, *Hydrology and Floodplain Analysis*, 6th ed.
 

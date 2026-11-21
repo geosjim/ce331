@@ -1,4 +1,4 @@
-# Homework 8 - Runoff
+# Homework - Runoff
 
 Solve the following problems from Bedient, Huber & Vieux, *Hydrology and Floodplain Analysis*, 6th ed.
 

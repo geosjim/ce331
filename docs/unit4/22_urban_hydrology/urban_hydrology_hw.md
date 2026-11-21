@@ -1,4 +1,4 @@
-# Homework 21 - Urban Hydrology
+# Homework - Urban Hydrology
 
 Solve the following problems from Bedient, Huber & Vieux, *Hydrology and Floodplain Analysis*, 6th ed.
 

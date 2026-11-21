@@ -1,4 +1,4 @@
-# Homework 11 - Distributions
+# Homework - Distributions
 
 You will use the Spanish Fork streamflow and precipitation data files for these three problems. Instructions for how to use Excel to do these exercises are given below.
 

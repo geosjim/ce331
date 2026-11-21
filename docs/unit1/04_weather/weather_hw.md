@@ -1,4 +1,4 @@
-# Homework 3 - Weather
+# Homework - Weather
 
 Solve the following problems from Bedient, Huber & Vieux, Chapter 1:
 

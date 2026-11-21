@@ -1,4 +1,4 @@
-# Homework 15 - SCS Curve Number
+# Homework - SCS Curve Number
 
 ## SCS Curve Number (CN) Method – Runoff Estimation and Comparison
 

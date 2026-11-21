@@ -1,4 +1,4 @@
-# Homework 20 - Reservoir Routing
+# Homework - Reservoir Routing
 
 Solve the following problems from Bedient, Huber & Vieux, *Hydrology and Floodplain Analysis*, 6th ed.
 

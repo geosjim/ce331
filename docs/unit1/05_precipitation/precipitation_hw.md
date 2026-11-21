@@ -1,4 +1,4 @@
-# Homework 4 - Precipitation
+# Homework - Precipitation
 
 Solve the following problems from Bedient, Huber & Vieux, Chapter 1:
 

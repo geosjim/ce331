@@ -1,4 +1,4 @@
-# Homework 13 - Regression
+# Homework - Regression
 
 **Deer Creek Reservoir Watershed, Utah (2001-2010).** Annual data for snow water equivalent (SWE), temperature, and streamflow discharge from CUAHSI stations near Hideout, Jordanelle, and Woodland, UT. Ten years of annual data - SWE (inches), temperature (°C), and discharge (cfs) - are already included in the homework template, along with helper columns.
 
