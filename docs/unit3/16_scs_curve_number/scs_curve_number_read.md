@@ -36,4 +36,4 @@ In one or two sentences, explain how to compute a composite CN for a watershed w
 
 In one or two sentences, give two strengths and two limitations of the SCS CN method, and explain when you might choose Horton or Green–Ampt instead.
 
-Answer these questions in Learning Suite (assignment "Pre Class: SCS Curve Number") by 8:00 am on the day of class. Each answer should take only a sentence or two. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and say that you used it, as the course AI policy requires.
+Answer these questions in Canvas (quiz "Pre Class: SCS Curve Number") by 8:00 am on the day of class. Each answer should take only a sentence or two. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and say that you used it, as the course AI policy requires.

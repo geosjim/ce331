@@ -32,4 +32,4 @@ Write the general hydrologic continuity equation (Eq. 1-9) and the more detailed
 
 Write the identity relating rainfall/runoff volume, depth, watershed area, and time (Eq. 1-11). In one or two sentences, explain why hydrologists usually report precipitation and runoff as a 'depth' (in. or mm) rather than a volume (ac-ft or m³), and describe the arithmetic step needed to convert a streamflow measurement (cfs) into an equivalent depth over the watershed.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Hydrologic Cycle") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the [course AI policy](../../resources/ai_policy.md).
+Answer these questions in Canvas (quiz "Pre Class: Hydrologic Cycle") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the [course AI policy](../../resources/ai_policy.md).

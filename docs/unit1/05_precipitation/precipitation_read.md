@@ -28,4 +28,4 @@ When you have several gauges in a watershed, the textbook describes two methods 
 
 In one or two sentences, explain what an Intensity-Duration-Frequency (IDF) curve shows and how an engineer uses one when selecting a design rainfall for a culvert or storm drain.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Precipitation") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the [course AI policy](../../resources/ai_policy.md).
+Answer these questions in Canvas (quiz "Pre Class: Precipitation") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the [course AI policy](../../resources/ai_policy.md).

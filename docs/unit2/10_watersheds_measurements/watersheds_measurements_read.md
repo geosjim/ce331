@@ -38,4 +38,4 @@ In one or two sentences, explain why streamflow gauges typically record only sta
 
 Name two public data sources that a hydrologic engineer in the U.S. would routinely use, briefly describe what each one provides, and identify one project task you might use it for.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Watersheds and Measurements") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and disclose it, as described in the course AI policy.
+Answer these questions in Canvas (quiz "Pre Class: Watersheds and Measurements") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and disclose it, as described in the course AI policy.

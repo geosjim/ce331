@@ -32,4 +32,4 @@ Write the recession equation, define each variable, and explain in one or two se
 
 In one or two sentences, describe how to compute the volume of direct runoff from a measured discharge hydrograph and convert that volume to a depth (inches) over the watershed; explain why the convenient unit "ac-in" arises.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Runoff") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and disclose it, as described in the course AI policy.
+Answer these questions in Canvas (quiz "Pre Class: Runoff") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and disclose it, as described in the course AI policy.

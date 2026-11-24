@@ -32,4 +32,4 @@ Write the steady-state well equation for an unconfined aquifer (Equation 8-42), 
 
 In one or two sentences, explain the principle of superposition for multi-well systems, describe how it is used to design a construction dewatering scheme, and state one assumption that must hold for superposition to be valid.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Wells") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the course AI policy.
+Answer these questions in Canvas (quiz "Pre Class: Wells") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the course AI policy.

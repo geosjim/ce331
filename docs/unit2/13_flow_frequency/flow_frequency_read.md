@@ -32,4 +32,4 @@ Write the Gumbel quantile equation (in mean/standard-deviation form) used to est
 
 In one or two sentences, explain the difference between a return-period analysis (e.g., the 100-yr flood) and a flow-duration curve, including which series of flows each one uses and what question each one answers.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Flow Frequency") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and disclose it, as described in the course AI policy.
+Answer these questions in Canvas (quiz "Pre Class: Flow Frequency") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and disclose it, as described in the course AI policy.

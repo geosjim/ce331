@@ -32,4 +32,4 @@ Starting from S = K[xI + (1−x)Q] and the finite-difference continuity equation
 
 When a flood wave passes through a river reach modeled with the Muskingum method, two characteristic changes occur in the hydrograph between the upstream and downstream ends. Name these two effects and explain which parameter primarily controls each.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Hydrologic Routing") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, as described in the course AI policy.
+Answer these questions in Canvas (quiz "Pre Class: Hydrologic Routing") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, as described in the course AI policy.

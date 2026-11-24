@@ -33,4 +33,4 @@ In one or two sentences, explain why simply adding the peak flows from upstream 
 
 Give two practical engineering reasons (from Section 2.4 or USACE Chapter 10) why an engineer would invest the effort to build a multi-basin model instead of treating a watershed as one lumped area.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Multi-basin Analysis") by 8:00 am on the day of class. Each answer should take only a sentence or two. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and say that you used it, as the course AI policy requires.
+Answer these questions in Canvas (quiz "Pre Class: Multi-basin Analysis") by 8:00 am on the day of class. Each answer should take only a sentence or two. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and say that you used it, as the course AI policy requires.

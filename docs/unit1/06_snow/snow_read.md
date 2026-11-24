@@ -36,4 +36,4 @@ Snowmelt is driven by an energy balance at the snowpack surface. In one or two s
 
 State the degree-day equation for snowmelt, identify each variable, and give one reason hydrologists still use this simple temperature-index method even when full energy-balance models exist.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Snow") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the [course AI policy](../../resources/ai_policy.md).
+Answer these questions in Canvas (quiz "Pre Class: Snow") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the [course AI policy](../../resources/ai_policy.md).

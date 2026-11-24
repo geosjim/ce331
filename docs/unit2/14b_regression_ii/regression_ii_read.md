@@ -17,7 +17,7 @@ Review Bedient, Huber & Vieux, *Hydrology and Floodplain Analysis*, 6th ed., Sec
 
 ## Pre-Class Assignment
 
-This one is a working assignment rather than a set of reading questions, so plan on 45-60 minutes. Part 1 uses two data files (linked below); Part 2 uses USGS StreamStats in your browser. Enter your answers in the Learning Suite quiz before class. I am still grading evidence that you did the work and thought about it rather than perfect numbers, but both parts produce numbers, so report the ones you get. Bring your plot and your StreamStats report to class - we will use several of them as the starting point for the in-class examples.
+This one is a working assignment rather than a set of reading questions, so plan on 45-60 minutes. Part 1 uses two data files (linked below); Part 2 uses USGS StreamStats in your browser. Enter your answers in the Canvas quiz before class. I am still grading evidence that you did the work and thought about it rather than perfect numbers, but both parts produce numbers, so report the ones you get. Bring your plot and your StreamStats report to class - we will use several of them as the starting point for the in-class examples.
 
 ### Part 1 - Build a Simple Linear Model for Spanish Fork
 
@@ -72,4 +72,4 @@ Name at least two characteristics you expected to see in the equations and did n
 
 Bring your scatter plot from Part 1 and your StreamStats peak-flow report from Part 2 to class. We will put a few of them on the screen and work from them.
 
-Answer in Learning Suite (assignment "Pre Class: Regression II") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and disclose it, as described in the course AI policy.
+Answer in Canvas (quiz "Pre Class: Regression II") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and disclose it, as described in the course AI policy.

@@ -28,4 +28,4 @@ In one or two sentences, explain what hydraulic conductivity K represents, give 
 
 In one or two sentences, distinguish between Darcy velocity V and seepage velocity Vs, write the equation that connects them, and explain why seepage velocity (not Darcy velocity) must be used when estimating contaminant travel time.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Darcy's Law") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the course AI policy.
+Answer these questions in Canvas (quiz "Pre Class: Darcy's Law") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the course AI policy.

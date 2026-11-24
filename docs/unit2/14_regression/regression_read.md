@@ -34,4 +34,4 @@ Compare Strahler and Shreve stream ordering. For a confluence where a Strahler o
 
 Name the standard U.S. data product (and the agency that maintains it) for each of the following: stream centerlines, surface elevation, soil properties, land cover, and streamflow gage records.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Regression") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and disclose it, as described in the course AI policy.
+Answer these questions in Canvas (quiz "Pre Class: Regression") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and disclose it, as described in the course AI policy.

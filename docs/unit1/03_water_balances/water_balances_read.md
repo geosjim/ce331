@@ -32,4 +32,4 @@ Write out the Rational Method formula Qₚ = CiA, identify the units of each var
 
 Looking at Figure 1-21, describe how urbanization (development) typically changes a watershed's hydrograph compared to its natural condition. Specifically, what happens to the peak flow and the time to peak, and why?
 
-Answer these questions in Learning Suite (assignment "Pre Class: Water Balances") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the [course AI policy](../../resources/ai_policy.md).
+Answer these questions in Canvas (quiz "Pre Class: Water Balances") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the [course AI policy](../../resources/ai_policy.md).

@@ -32,4 +32,4 @@ State the mass-transfer (Dalton-type) equation for evaporation, identify each va
 
 In one or two sentences, explain what a Class A evaporation pan measures, why a pan coefficient Kp is needed to convert pan readings to lake evaporation, and roughly what range Kp covers.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Evaporation") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the [course AI policy](../../resources/ai_policy.md).
+Answer these questions in Canvas (quiz "Pre Class: Evaporation") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the [course AI policy](../../resources/ai_policy.md).

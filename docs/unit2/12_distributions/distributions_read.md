@@ -32,4 +32,4 @@ Write the sample formulas (and Excel functions) for the mean, standard deviation
 
 In one or two sentences, define stationarity and list two real-world causes of nonstationarity in a long streamflow record. Why does nonstationarity matter for design?
 
-Answer these questions in Learning Suite (assignment "Pre Class: Distributions") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and disclose it, as described in the course AI policy.
+Answer these questions in Canvas (quiz "Pre Class: Distributions") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and disclose it, as described in the course AI policy.

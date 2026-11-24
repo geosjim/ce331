@@ -22,7 +22,7 @@ The course tracks water through the hydrologic cycle:
 
 ## How Class Works
 
-**Before class (about 1 hour, due 8:00 am).** Read the assigned text sections, answer the pre-class questions in Learning Suite, and bring one question you want us to cover.
+**Before class (about 1 hour, due 8:00 am).** Read the assigned text sections, answer the pre-class questions in the Canvas quiz, and bring one question you want us to cover.
 
 **First half of class (about 20 minutes).** Review the concepts together, discuss the pre-class responses and fill gaps in understanding.
 
@@ -30,5 +30,5 @@ The course tracks water through the hydrologic cycle:
 
 ## Before the Next Class
 
-- Complete the syllabus quiz in Learning Suite (Pre Class: Syllabus Quiz). You may use the [syllabus](../../resources/syllabus.md) while you take it.
+- Complete the syllabus quiz in Canvas (quiz "Pre Class: Syllabus Quiz"). You may use the [syllabus](../../resources/syllabus.md) while you take it.
 - Read Bedient Sections 1.1 and 1.4 and answer the [Hydrologic Cycle pre-class questions](../02_hydrologic_cycle/hydrologic_cycle_read.md).

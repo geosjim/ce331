@@ -34,4 +34,4 @@ In one or two sentences, state what an IDF curve represents, give the correct wa
 
 In one or two sentences, describe what a synthetic design storm is, list the standard steps used to construct one (e.g., an SCS Type II 24-hr storm), and state one important caveat about the return period of the resulting hyetograph.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Design Storms") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, as described in the course AI policy.
+Answer these questions in Canvas (quiz "Pre Class: Design Storms") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, as described in the course AI policy.

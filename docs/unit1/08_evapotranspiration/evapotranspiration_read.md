@@ -38,4 +38,4 @@ In one or two sentences, explain what the crop coefficient Kc represents physica
 
 In one or two sentences, describe what OpenET (etdata.org) provides and explain one practical advantage it offers over a temperature-based estimate like Blaney-Criddle.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Evapotranspiration") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the [course AI policy](../../resources/ai_policy.md).
+Answer these questions in Canvas (quiz "Pre Class: Evapotranspiration") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the [course AI policy](../../resources/ai_policy.md).

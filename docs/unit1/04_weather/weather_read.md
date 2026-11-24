@@ -36,4 +36,4 @@ The textbook describes three principal lifting mechanisms that drive precipitati
 
 Define the dry adiabatic lapse rate and the environmental (ambient) lapse rate, and explain, in one or two sentences, how comparing the two tells you whether the atmosphere is stable or unstable to vertical motion.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Weather") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the [course AI policy](../../resources/ai_policy.md).
+Answer these questions in Canvas (quiz "Pre Class: Weather") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, per the [course AI policy](../../resources/ai_policy.md).

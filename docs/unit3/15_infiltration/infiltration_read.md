@@ -32,4 +32,4 @@ In one or two sentences, describe the Green-Ampt model's physical picture of an 
 
 Explain the three possible cases for rainfall intensity i versus the soil's current infiltration capacity f, and define what 'ponding time' means.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Infiltration") by 8:00 am on the day of class. Each answer should take only a sentence or two. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and say that you used it, as the course AI policy requires.
+Answer these questions in Canvas (quiz "Pre Class: Infiltration") by 8:00 am on the day of class. Each answer should take only a sentence or two. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and say that you used it, as the course AI policy requires.

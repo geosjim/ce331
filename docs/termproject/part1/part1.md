@@ -1,86 +1,32 @@
-# Part 1 - Demographic Data
+# Part 1 - Water Supply Technical Analysis
 
-## Introduction
+For the first part of this project, you will perform a series of short assessments on different components of the water cycle in Utah County. You will obtain data from authoritative and vetted data providers. You will do some simple hydrological analysis which helps you explore what that data can tell you. Your objective is to prepare a series of figures and tables which you will 1) organize into the appendix for your report in [Part 2](../part2/part2.md), and 2) form the basis for you making recommendations to improve the sustainability of Utah's water supply.
 
-The purpose of this assignment is to become familiar with sources of demographic data and water consumption rates in Utah County.
+## Sections
 
-### Demographic data
+1. [Demographics and Water Consumption](demographics.md)
+2. [Rivers and Watersheds](rivers.md)
+3. [Reservoirs and Lakes](reservoirs.md)
+4. [Agricultural Water Use](agriculture.md)
+5. [Precipitation and Climate Change](precipitation.md)
 
-You can obtain the most recent population counts from the US Census. Search for city level population based on the 2020 census coming from a census.gov website. Links and website layout change often enough that direct links are not provided.
+## Deliverable
 
-In Utah, population projections are made by the Kem C. Gardner Institute. Use the November 2025 long-term projection PDFs, PowerPoint slides, and Excel books.
+Your deliverable is a PDF containing:
 
-### National water consumption data sources
+1. Demographics and Water Consumption
+    1. The completed Utah County Population, City Level Numbers, and National Consumption tables.
+2. Rivers and Watersheds
+    1. A map of the canyon watershed boundaries obtained from StreamStats, with each watershed outline visible and labeled with its name.
+    2. Plot of the hydrograph from the Spanish Fork Canyon gauge since 1980.
+3. Reservoirs and Lakes
+    1. 2 plots, 1 per reservoir, showing the day of year average inflow, outflow, and evaporation loss lines.
+4. Agricultural Water Use
+    1. A table with the irrigated acres harvested, acre-feet of water applied per acre, and volume of water applied for each crop in Utah County. Include the irrigated acres not reported by crop and the totals.
+    2. The estimated volume of water applied to farms in Utah County in acre-feet per year, million gallons per day (MGD), and gallons per capita per day.
+    3. A comparison of these values with the public supply GPCD values from section 1.
+5. Precipitation and Climate Change
+    1. A chart with bars of total precipitation in Utah County vs time, a dashed horizontal line at the 30-year average annual precipitation, and a trendline with the equation labeled on the chart.
+    2. Charts from the NCCV showing the current and projected amount of precipitation.
 
-Several federal agencies have information about water consumption. In particular, check with the EPA, USGS, and NOAA.
-
-- [https://www.usgs.gov/mission-areas/water-resources/science/water-use-united-states](https://www.usgs.gov/mission-areas/water-resources/science/water-use-united-states){target='blank'}
-- [https://www.usgs.gov/tools/national-water-availability-assessment-data-companion](https://www.usgs.gov/tools/national-water-availability-assessment-data-companion){target='blank'}
-- [https://www.epa.gov/watersense/learn-more](https://www.epa.gov/watersense/learn-more){target='blank'}
-
-### Water consumption data
-
-The EPA requires public water systems to provide public reports. You can find information about consumption rates and sources in a water "management plan" or "conservation plan". These are completed every 5 years and typically made available on the Public Works section of a city or state website. Government websites are not always well organized so internet searching may be simplest. Find the latest report for the selected cities. The year of the most recent report is not the same for all cities, but all should be less than 5 years old. You can find some state reports at [https://water.utah.gov/water-reports/](https://water.utah.gov/water-reports/){target='blank'}.
-
-## Data Files
-
-| File | Description |
-|:-----|:------------|
-| [LongTerm-Proj-Nov2025.pdf](LongTerm-Proj-Nov2025.pdf) | Kem C. Gardner Policy Institute long-term population projections (November 2025) |
-| [SUB-IP-EST2024-POP-49.xlsx](SUB-IP-EST2024-POP-49.xlsx) | US Census annual population estimates for Utah cities and towns (2020-2024) |
-
-## Instructions
-
-Search for the referenced documents from the US Census and city government pages to populate the tables in the deliverables section. Explanation of the table's columns are given below the tables.
-
-## Deliverables
-
-### County Level Numbers
-
-| Indicator | Value | Source Agency/Document | Link |
-|:----------|:-----:|:-----------------------|:-----|
-| Population 2020 | | | |
-| Population 2025 | | | |
-| Projected population 2065 | | | |
-
-### City Level Numbers
-
-**Census data source:** [https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html){target='blank'}
-
-| City | Pop 2020 | Pop 2024 | GPCD | WCP Year | WCP Source |
-|:-----|:--------:|:--------:|:----:|:--------:|:-----------|
-| Eagle Mountain | | | | | |
-| Lehi | | | | | |
-| American Fork | | | | | |
-| Pleasant Grove | | | | | |
-| Orem | | | | | |
-| Provo | | | | | |
-| Springville | | | | | |
-| Mapleton | | | | | |
-| Spanish Fork | | | | | |
-| Payson | | | | | |
-
-### National Consumption
-
-| Consumption Measurement | State Name | GPCD | Source |
-|:------------------------|:----------:|:----:|:-------|
-| National average | N/A | | |
-| Utah GPCD Average | N/A | | |
-| Lowest GPCD state | | | |
-| Highest GPCD state | | | |
-
-**County Table**
-
-1. Use the November 2025 Gardner Institute's long-term projections and data from the US Census.
-
-**City Table**
-
-1. Population values should come from the US Census.
-2. Gallons per capita per day (GPCD) comes from each city's water conservation plan (WCP).
-
-### Paragraphs of explanation
-
-Provide a maximum of 3 paragraphs addressing the following questions.
-
-1. Where do you expect the population growth to occur in Utah County? Use the Gardner Institute reports and census data to observe trends in each city.
-2. Why do you think Utah uses so much more water per capita than the average state?
+Submit the PDF in Canvas.

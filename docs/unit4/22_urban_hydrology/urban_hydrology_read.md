@@ -32,4 +32,4 @@ In one or two sentences, explain why the Rational Method uses a storm duration e
 
 In one or two sentences, explain what Directly Connected Impervious Area (DCIA) is, why an engineer must always check the DCIA-only peak flow in addition to the whole-catchment peak flow, and why the Rational Method becomes conservative (over-predicts) as a basin gets larger.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Urban Hydrology") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, as described in the course AI policy.
+Answer these questions in Canvas (quiz "Pre Class: Urban Hydrology") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, as described in the course AI policy.

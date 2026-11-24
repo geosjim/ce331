@@ -32,4 +32,4 @@ In one or two sentences, describe how to convert a D-hr UH into a kD-hr UH by la
 
 In one or two sentences, describe what an S-curve is, explain how it is used to convert a D-hr UH into a D′-hr UH (where D′ is any duration), and state why this method is needed in addition to lagging.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Unit Hydrographs") by 8:00 am on the day of class. Each answer should take only a sentence or two. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and say that you used it, as the course AI policy requires.
+Answer these questions in Canvas (quiz "Pre Class: Unit Hydrographs") by 8:00 am on the day of class. Each answer should take only a sentence or two. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and say that you used it, as the course AI policy requires.

@@ -37,4 +37,4 @@ Describe in one or two sentences how the storage-indication curve is constructed
 
 In one or two sentences, contrast hydrologic reservoir routing (Modified Puls) with hydrologic river routing (Muskingum) and with full hydraulic routing (Saint-Venant). When is reservoir routing the correct choice?
 
-Answer these questions in Learning Suite (assignment "Pre Class: Reservoir Routing") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, as described in the course AI policy.
+Answer these questions in Canvas (quiz "Pre Class: Reservoir Routing") by 8:00 am on the day of class. Write your own answer first. If you then use AI to critique or expand your answer, disclose it, as described in the course AI policy.

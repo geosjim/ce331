@@ -24,4 +24,4 @@ Write the SCS equations for lag time tp, time of rise TR, and peak discharge Qp;
 
 In one or two sentences describe the conceptual basis of the Clark UH (the two routing elements and the two parameters Tc and R), and explain how a unit hydrograph for each subbasin is used together with convolution and add-and-lag to build a design storm hydrograph at the outlet of a watershed with multiple subbasins.
 
-Answer these questions in Learning Suite (assignment "Pre Class: Synthetic Unit Hydrographs") by 8:00 am on the day of class. Each answer should take only a sentence or two. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and say that you used it, as the course AI policy requires.
+Answer these questions in Canvas (quiz "Pre Class: Synthetic Unit Hydrographs") by 8:00 am on the day of class. Each answer should take only a sentence or two. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and say that you used it, as the course AI policy requires.

@@ -32,4 +32,4 @@ Name the four computational steps HEC-HMS performs for every subbasin in a model
 
 Module 14 ends with a live HEC-HMS / WMS demonstration of a single basin. List the five steps the instructor will perform in the demo (see slide 9), and for each step, name the Module 1–13 concept it relies on.
 
-Answer these questions in Learning Suite by 8:00 am on the day of class. Each answer should take only a sentence or two. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and say that you used it, as the course AI policy requires.
+Answer these questions in the Canvas quiz by 8:00 am on the day of class. Each answer should take only a sentence or two. Write your own answer first. If you then use AI to critique or expand your answer, add that after your own answer and say that you used it, as the course AI policy requires.
