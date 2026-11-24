@@ -39,7 +39,7 @@ By the end of the semester, you should be able to:
 
 ## Schedule
 
-The schedule is in Learning Suite. Check it regularly: the schedule and related materials, including this syllabus, are subject to change.
+The schedule is in Canvas: each assignment and quiz shows its due date, and the Canvas syllabus lists them in order. Check it regularly: the schedule and related materials, including this syllabus, are subject to change.
 
 ## Classroom Procedures
 
@@ -93,4 +93,4 @@ AI tools are allowed as a learning aid under the [Course AI Use Policy](ai_polic
 
 ## University Policies
 
-The university policies on the honor code, academic honesty, sexual misconduct (Title IX), student disability, mental health, and a respectful environment apply to this course. They are listed in full in the syllabus in Learning Suite and at [policy.byu.edu](https://policy.byu.edu).
+The university policies on the honor code, academic honesty, sexual misconduct (Title IX), student disability, mental health, and a respectful environment apply to this course. They are listed in full in the Canvas syllabus and at [policy.byu.edu](https://policy.byu.edu).

@@ -47,10 +47,10 @@ Calculation table (mm and inches), seasonal totals, comparison table, one figure
 
 ## Submission
 
-Upload your work to Learning Suite.
+Upload your work to the matching assignment in Canvas.
 
 !!! note "Do not put your name or NetID in the file"
-    Learning Suite records who submitted each file, so your name is not needed
+    Canvas records who submitted each file, so your name is not needed
     inside the file itself. This applies to scans and photos too — please
     don't write your name on the page.
 

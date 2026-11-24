@@ -10,13 +10,13 @@
 	</div>
 </div>
 
-Welcome to the content repository for **CE 331 - Hydrology**. It holds the pre-class material, in-class examples and homework assignments for the class. The content is organized by unit and lesson and can be browsed with the navigation bar on the left. You can also reach it from the Schedule page of the class in BYU Learning Suite, which links each day to its pre-class, in-class and homework pages.
+Welcome to the content repository for **CE 331 - Hydrology**. It holds the pre-class material, in-class examples and homework assignments for the class. The content is organized by unit and lesson and can be browsed with the navigation bar on the left. You can also reach it from the modules of the class in Canvas, which link each lesson to its pre-class, in-class and homework pages.
 
 Each lesson has three parts:
 
-- **Pre-Class** - the reading, the slides and the pre-class questions. Answer the questions in Learning Suite by 8:00 am on the day of class.
+- **Pre-Class** - the reading, the slides and the pre-class questions. Answer the questions in the Canvas quiz by 8:00 am on the day of class.
 - **In-Class** - the example problems we work together in class, with Excel starter files.
-- **Homework** - the assigned problems, the Excel template and the grading rubric. Submit your work in Learning Suite.
+- **Homework** - the assigned problems, the Excel template and the grading rubric. Submit your work in Canvas.
 
 This content is maintained by Prof. Nelson and the TAs and is subject to change. If you have questions, comments or suggestions, please contact Prof. Nelson.
 
